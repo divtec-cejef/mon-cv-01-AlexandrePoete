@@ -7,6 +7,8 @@ body {
     background-size: 10%;
     background-position: bottom left;
     background-repeat: no-repeat;
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
 }
 
 h1 {
@@ -17,4 +19,8 @@ h1 {
 h1:hover{
     text-shadow: blueviolet 1px 1px 1px;
 
+}
+image{
+    max-width: 100px;
+    max-height: 100px;
 }
