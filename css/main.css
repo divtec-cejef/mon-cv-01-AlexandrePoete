@@ -1,7 +1,7 @@
 body {
     background: black;
     color: #ffffff;
-    font-size:1em;
+    font-size: 1em;
     line-height: 1.3;
     background-image: url("https://image.freepik.com/vetores-gratis/linha-arredondada-abstrata-formas-gradiente-fundo_147754-1.jpg");
     background-size: 110%;
@@ -20,16 +20,21 @@ h1 {
     text-shadow: #ffffff 1px 1px 1px;
     text-align: center;
 }
-h1:hover{
-    text-shadow: blueviolet 1px 1px 1px;
+
+h1:hover {
+    text-shadow: #8701ff 1px 1px 1px;
     text-align: center;
 
 }
-image{
+
+image {
     max-width: 100px;
     max-height: 100px;
     text-align: center;
 
 }
 
-
+h3 {
+    color: #00fbff;
+    font-weight: bold;
+}
