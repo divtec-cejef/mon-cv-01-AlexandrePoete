@@ -12,8 +12,8 @@ body {
     font-family: Roboto, sans-serif;
     font-weight: 100;
     text-align: center;
-
 }
+
 a {
     color: deeppink;
     text-decoration: #fffb00;
@@ -32,14 +32,12 @@ h1 {
 h1:hover {
     text-shadow: #8701ff 1px 1px 1px;
     text-align: center;
-
 }
 
 image {
     max-width: 100px;
     max-height: 100px;
     text-align: center;
-
 }
 
 h3 {
@@ -59,4 +57,9 @@ footer a:hover {
 
 ul{
     list-style-position: inside;
+}
+
+img {
+    max-width:100%;
+    height: auto;
 }
